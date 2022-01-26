@@ -298,5 +298,21 @@ div.para2 {
      right: 50px;
    }
    .final1{
-     
+     position: absolute;
+     top: 4700px;
    }
+   .final2{
+     position: absolute;
+     top: 4700px;
+     left: 100px;
+   }
+   .final3{
+     position: absolute;
+     top: 4600px;
+     left: 300px;
+   }
+   .map{
+     position: relative;
+     left: 20px;
+   }
+   
