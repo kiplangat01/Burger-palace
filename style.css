@@ -162,7 +162,7 @@ div.para2 {
 }
 .gers3{
   position: relative;
-  left: 360px;
+  left: 295px;
   border: 1px solid rgb(228, 221, 221);
   box-shadow: 3px 7px gray;
   border-radius: 15px;
@@ -170,38 +170,45 @@ div.para2 {
   width: 350px;
 }
 .KSH{
-  position: relative;
-  top: 470px;
+  position: absolute;
+  top: 500px;
   left: 40px;
 }
 .cart {
  height: 100px;
- position: relative;
- top: 450px;
- left: 230px;
+ position: absolute;
+ top: -227px;
+ left: 305px;
 }
 .ksh1 {
   position: absolute;
-  right: 5000px;
+  top: 490px;
+  left: 580px;
 }
 .ksh2{
   position: absolute;
   left: 30px;
-  top: 470px;
+  top: 490px;
 }
 .cart1{
-  position: relative;
-  left: 100px;
-  top: 20px;
+  position: absolute;
+  left: 1165px;
+  top: 1175px;
 }
 .ksh3{
-  position: relative;
-  top: 40px;
-  right: 120px;
+  position: absolute;
+  top: 1197px;
+  right: 250px;
+}
+.csh{
+  position: absolute;
+  top: -225px;
+  right: -20px;
 }
 .cart3{
   position: relative;
-  left: 120px;
+  left: 130px;
+  top: 30px;
 }
 .decker {
   position: absolute;
