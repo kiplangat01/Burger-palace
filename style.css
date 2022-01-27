@@ -1,5 +1,5 @@
 body{
-  font-family: 'poppins';
+  font-family: "poppins";
 }
 .trapezoid {
   border-bottom: 900px solid #f6b400;
@@ -309,10 +309,47 @@ div.para2 {
    .final3{
      position: absolute;
      top: 4600px;
-     left: 300px;
+     left: 300px;  
    }
    .map{
-     position: relative;
-     left: 20px;
+    
+    list-style-type: none;
+     position: absolute;
+     left: 50px;
    }
-   
+   .final4{
+     position: absolute;
+     top: 4600px;
+     left: 1100px;
+   }
+   .final5{
+    background-color: orange;
+     position: absolute;
+     display: inline-block;
+     top: 4700px;
+     left: 1400px;
+    border: 1px solid black;
+     padding: 20px;
+     color: white;
+   }
+   .sub{
+     position: absolute;
+     top: 4700px;
+     left: 1290px;
+     width: 130px;
+     padding-right: 60px;
+      }   
+    .close{
+      position: absolute;
+      top: 4800px;
+      }
+      .endtag1{
+        position: absolute;
+        left: 30px;
+      }
+      .endtag2{
+        display: flex;
+        position: absolute;
+        left: 500px;
+        top: 30px;
+      }
