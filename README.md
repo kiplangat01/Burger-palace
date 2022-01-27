@@ -5,7 +5,7 @@
 # project instructiom
 ## create project description
 # setup instruction 
-## list restaurant foog an their price
+## list restaurant food and their price 
 # technology used
 ## htnl
 ## css#
