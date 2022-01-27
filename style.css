@@ -1,4 +1,4 @@
-*{
+body{
   font-family: "lobster";
 }
 .trapezoid {
@@ -353,9 +353,18 @@ div.para2 {
         display: flex;
         position: absolute;
         left: 500px;
-        top: 30px;
+        top: 4810px;
       }
       .endtag3{
         position: absolute;
         left: 1400px;
+      }
+      .endtag1{
+        position: absolute;
+        top: 4800px;
+      }
+      .end{
+        position: absolute;
+        top: 4800px;
+        left: 1300px;
       }
