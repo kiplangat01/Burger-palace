@@ -1,5 +1,5 @@
-body{
-  font-family: "poppins";
+*{
+  font-family: "lobster";
 }
 .trapezoid {
   border-bottom: 900px solid #f6b400;
@@ -336,8 +336,10 @@ div.para2 {
      position: absolute;
      top: 4700px;
      left: 1290px;
-     width: 130px;
-     padding-right: 60px;
+      }
+      input{
+        height: 58px;
+        width: 110px;
       }   
     .close{
       position: absolute;
@@ -352,4 +354,8 @@ div.para2 {
         position: absolute;
         left: 500px;
         top: 30px;
+      }
+      .endtag3{
+        position: absolute;
+        left: 1400px;
       }
