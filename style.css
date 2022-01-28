@@ -331,14 +331,14 @@ div.para2 {
      left: 1100px;
    }
    .final5{
-    background-color: orange;
      position: absolute;
-     display: inline-block;
-     top: 4700px;
-     left: 1400px;
-    border: 1px solid black;
-     padding: 20px;
-     color: white;
+     top: 4701px;
+     left: 1408px;
+   }
+   .final5>button{
+     padding: 21px 24px;
+     background-color: #f6b400;
+     font-weight: 1200px;
    }
    .sub{
      position: absolute;
