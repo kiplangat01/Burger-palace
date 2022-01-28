@@ -100,7 +100,7 @@ div.para2 {
   position: absolute;
   top: 1580px;
   left: 600px;
-  text-decoration: 8px underline rgb(206, 116, 14);
+  text-decoration: 3px underline rgb(206, 116, 14);
 }
 .burgers{
   display: flex;
