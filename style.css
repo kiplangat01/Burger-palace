@@ -65,7 +65,7 @@ div.para2 {
   padding-right: 10px;
   border: 1px solid black;
   border-radius: 20px;
-  height: 330px;
+  height: 370px;
   width: 290px;
   position: relative;
   top: 50px;
@@ -88,10 +88,10 @@ div.para2 {
   padding-right: 100px;
   border: 1px solid black;
   border-radius: 20px;
-  height: 350px;
+  height: 370px;
   width: 190px;
   position: relative;
-  top: 30px;
+  top: 50px;
   left: 200px;
 }
 .ourmenu{
@@ -355,13 +355,13 @@ div.para2 {
       }
       .endtag1{
         position: absolute;
-        left: 30px;
+        top: 4850px;
       }
       .endtag2{
         display: flex;
         position: absolute;
-        left: 500px;
-        top: 4810px;
+        left: 610px;
+        top: 4830px;
       }
       .endtag3{
         position: absolute;
@@ -374,5 +374,5 @@ div.para2 {
       .end{
         position: absolute;
         top: 4800px;
-        left: 1300px;
+        left: 1270px;
       }
