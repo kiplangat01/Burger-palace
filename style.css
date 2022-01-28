@@ -7,6 +7,7 @@ body{
   border-right: 5px solid transparent;
   width: 800px;
   float: right;
+  top: 1px;
   /* Full height */
 }
 div.para1 {
@@ -33,7 +34,6 @@ div.para2 {
   position: absolute;
   top: 300px;
   left: 70px;
-  font-size-adjust: 2px;
 }
 
 
