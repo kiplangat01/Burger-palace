@@ -3,18 +3,18 @@ body{
   font-family: sans-serif;
 }
 .trapezoid {
-  border-bottom: 900px solid #f6b400;
+  border-bottom: 1000px solid #f6b400;
   border-left: 95px solid transparent;
-  border-right: 5px solid transparent;
   width: 800px;
-  float: right;
+  position: absolute;
+  right: 0px;
   top: 1px;
   /* Full height */
 }
 div.para1 {
   position: absolute;
-  top: 0px;
-  left: 600px;
+  top: 20px;
+  left: -120px;
   word-spacing: 50px;
 }
 
@@ -328,6 +328,12 @@ div.para2 {
      position: absolute;
      left: 50px;
    }
+   li{
+     list-style-type: none;
+     line-height: 40px;
+     position: relative;
+     left: -30px;
+   }
    .final4{
      position: absolute;
      top: 4600px;
@@ -341,6 +347,12 @@ div.para2 {
    .final5>button{
      padding: 23px 26px;
      background-color: #f6b400;
+     height: 50px;
+     position: relative;
+     left: -100px;
+     border: 0px;
+     color: white;
+     font-size: 20px;
 
    }
    .sub{
@@ -349,8 +361,11 @@ div.para2 {
      left: 1290px;
       }
       input{
-        height: 58px;
-        width: 110px;
+        height: 45px;
+        width: 220px;
+        position: relative;
+        left: -200px;
+        border-radius: 7px;
       }   
     .close{
       position: absolute;
@@ -358,7 +373,7 @@ div.para2 {
       }
       .endtag1{
         position: absolute;
-        top: 4850px;
+        top: 5000px;
       }
       .endtag2{
         display: flex;

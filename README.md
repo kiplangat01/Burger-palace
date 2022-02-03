@@ -1,7 +1,7 @@
-# burger palace project
+# burger palace  project
 
 ##### Kiplangat Meshack
-### It is a description of my 2nd project at moringa school.
+### It is a description of my 1st project at moringa school (burger palace).
 
 ## Table of Content
 
