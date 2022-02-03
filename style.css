@@ -349,7 +349,7 @@ div.para2 {
      background-color: #f6b400;
      height: 50px;
      position: relative;
-     left: -100px;
+     left: -200px;
      border: 0px;
      color: white;
      font-size: 20px;
@@ -358,13 +358,13 @@ div.para2 {
    .sub{
      position: absolute;
      top: 4700px;
-     left: 1290px;
+     left: 1230px;
       }
       input{
         height: 45px;
         width: 220px;
         position: relative;
-        left: -200px;
+        left: -240px;
         border-radius: 7px;
       }   
     .close{
